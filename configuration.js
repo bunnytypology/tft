@@ -534,5 +534,5 @@ questions = [
         "weights": {
             "Fe (IxTJ)": 4
         }
-    },
+    }
 ]
